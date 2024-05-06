@@ -41,7 +41,7 @@ class _MyButtonState extends State<MyButton> {
         child: Text(
           widget.text.toUpperCase(),
           style: const TextStyle(
-            color: Colors.purpleAccent,
+            color: Colors.black26,
             fontSize: 20,
           ),
         ),
